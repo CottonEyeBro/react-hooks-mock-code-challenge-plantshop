@@ -2,8 +2,6 @@ import React from "react";
 
 function Search( {setPlantSearch} ) {
 
-
-
   return (
 
     <div className="searchbar">
